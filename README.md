@@ -36,3 +36,10 @@ next operation.
 ➢ Operations of vectors.
 ➢ Calculation of integration and differentiation.
 ➢ Multiple Operations at the same time.
+
+
+# It consist of 4 python files:
+1. Sci_Fi: It is the main file from where the execution begins.
+2. Sci_Const: It consist of list of universal constants.
+3. Testing: It consist of unit testing functions for all the operations.
+4. Len_conv: It consist of length conversion operations.
