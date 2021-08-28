@@ -25,17 +25,17 @@ time.
 
 # Limitation and Future Enhancements
 There are few limitations:
-➢ It should include exception handling at some points.
-➢ It is not in GUI.
-➢ It doesn’t supports storing the history.
-➢ It doesn’t have any feature to continue the previous output to the
+1. It should include exception handling at some points.
+2. It is not in GUI.
+3. It doesn’t supports storing the history.
+4. It doesn’t have any feature to continue the previous output to the
 next operation.
 
 # There are some future enhancements:
-➢ Some more operations of matrices.
-➢ Operations of vectors.
-➢ Calculation of integration and differentiation.
-➢ Multiple Operations at the same time.
+1. Some more operations of matrices.
+2. Operations of vectors.
+3. Calculation of integration and differentiation.
+4. Multiple Operations at the same time.
 
 
 # It consist of 4 python files:
